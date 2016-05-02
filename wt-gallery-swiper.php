@@ -74,7 +74,7 @@ class WtGallerySwiper
 
 		wp_register_script(
 			'swiper',
-			plugin_dir_url(__FILE__).'/swiper_3_3_1/js/swiper.jquery.min.js',
+			plugin_dir_url(__FILE__).'/swiper_3_3_1/js/swiper.min.js',
 			array('jquery'),
 			'3.3.1');
 
@@ -92,8 +92,7 @@ class WtGallerySwiper
 			'magnific-popup',
 			plugin_dir_url(__FILE__) . '/magnific_popup_1_1_0/jquery.magnific-popup.min.js',
 			array('jquery'),
-			'1.1.0',
-			true);
+			'1.1.0');
 
 		wp_enqueue_style( 'magnific-popup');
 		wp_enqueue_script('magnific-popup');

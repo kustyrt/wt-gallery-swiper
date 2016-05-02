@@ -13,9 +13,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 **WT Gallery Swiper** - микро-плагин добавляющий вывод галереи в виде слайдера Swiper.
 
-Разработка и поддержка: [АИТ "Web Technology"](http://web-technology.biz).<br />
-Домашняя страница и документация: [WT Portfolio](http://web-technology.biz/cms-wordpress/plugin-wt-gallery-swiper/).<br />
-Сообщество Вконтакте: [vk.com/agency_web_technology](https://vk.com/agency_web_technology).
+Разработка и поддержка: [АИТ "Web Technology"](http://web-technology.biz) <br />
+Домашняя страница и документация: [WT Portfolio](http://web-technology.biz/cms-wordpress/plugin-wt-gallery-swiper/) <br />
+Сообщество Вконтакте: [vk.com/agency_web_technology](https://vk.com/agency_web_technology)
 
 == Installation ==
 
